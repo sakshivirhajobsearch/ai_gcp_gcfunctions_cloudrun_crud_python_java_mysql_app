@@ -1,0 +1,7 @@
+Flask
+mysql-connector-python
+google-cloud-functions
+google-cloud-run
+requests
+numpy
+scikit-learn
