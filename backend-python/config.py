@@ -10,7 +10,7 @@ DB_CONFIG = {
 }
 
 # GCP Configuration
-GCP_PROJECT_ID = 'adroit-standard-431618-m4'  # 🔁 Replace with your project ID
+GCP_PROJECT_ID = ''  # 🔁 Replace with your project ID
 GCP_REGION = 'us-central1'
 
 # MySQL connection
